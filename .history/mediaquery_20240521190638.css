@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 90;
+}
+
+@media(max-width:400px){
+    .navBar{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: rgb(48, 7, 87);
+        color: #fff;
+        width: 100%;
+    }
+}
